@@ -37,8 +37,7 @@ Os principais componentes:
 - 🔌 VPC Network com subnet-app e subnet-data  
 - 🧱 Firewall restritivo baseado no menor privilégio  
 
-📷 O diagrama completo da arquitetura está disponível em:  
-`./docs/diagrama-arquitetura-gcp.png`
+📎 [Diagrama completo da arquitetura](./docs/diagrama-arquitetura-gcp.png)
 
 ---
 
